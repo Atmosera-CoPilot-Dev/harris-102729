@@ -1,5 +1,5 @@
 ---
-applyTo: **/src/main/java/**/*.java  
+applyTo: "**/src/main/java/**/*.java"
 ---
 
 # Copilot Instructions
