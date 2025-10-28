@@ -1,5 +1,11 @@
-## Designing a Web-Based Invoicing Application with Java 
+## UML Diagram Request
+```markdown
+I want a UML class diagram for an invoicing system with classes for Invoice, Client, and InvoiceItem. Include attributes and methods for each class. Show the relationships between the classes (e.g., associations, aggregations, compositions) using appropriate UML notation. The format should be in a human-readable visualization format (picture layout)
 
+```
+
+## Designing a Web-Based Invoicing Application with Java 
+```markdown
 My team consists of experienced Java backend developers. I need step-by-step guidance to design a web-based invoicing application with the following requirements:
 
 1. Build a RESTful API for managing invoices and clients.
@@ -28,5 +34,8 @@ My team consists of experienced Java backend developers. I need step-by-step gui
 
 **Goal:**  
 Enable my team to confidently execute each phase of the invoicing application project with a clear understanding of tools, workflows, and security using Java (Spring Boot) and Angular.
+```
+
+
 
 
