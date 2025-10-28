@@ -1,3 +1,4 @@
+/*
 # Inventory Database Creation Instructions
 
 ## Purpose
@@ -21,3 +22,5 @@ The T-SQL`Inventory` database is designed to manage suppliers, categories, and p
    - Implement a stored procedure to retrieve the `product_list` view.
    - Add a trigger to update the `products` table when a `categories` record is deleted.
    - Define functions to calculate the total number of products in a category and those supplied by a supplier.
+*/
+
