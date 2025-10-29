@@ -1,7 +1,7 @@
 package MathFun;
 
 /*
-This file contains a class that provides operations in the mathematical field of combinatorics.
+This file contains a minimal class that provides operations in the mathematical field of combinatorics.
 
 TODO: 
 1. Change parameter and variable names to be more descriptive.
@@ -23,5 +23,6 @@ public class Combinatorics {
         return fact(n) / fact(n - r);
     }
 }
+
 
 
