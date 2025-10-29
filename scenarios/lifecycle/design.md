@@ -1,6 +1,9 @@
 ## UML Diagram Request
 ```markdown
-I want a UML class diagram for an invoicing system with classes for Invoice, Client, and InvoiceItem. Include attributes and methods for each class. Show the relationships between the classes (e.g., associations, aggregations, compositions) using appropriate UML notation. The format should be in a human-readable visualization format (picture layout)
+I want a UML diagram for an invoicing system with classes for Invoice, Client, and InvoiceItem. Include attributes and methods for each class. 
+- Show the relationships between the classes (e.g., associations, aggregations, compositions) using appropriate UML notation. 
+- Do not include code snippets, only the UML diagram.
+- The format should be in a human-readable visualization format (picture layout)
 
 ```
 
